@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TASK FLOW PRO 🚀
 
 TASK FLOW PRO is an advanced Python-based productivity and task management system designed to help users efficiently organize, monitor, and analyze their tasks.
@@ -110,3 +111,7 @@ py main.py
 # AUTHOR 👨‍💻
 
 Developed as an advanced Python productivity management project by NITISH J M...
+=======
+# Task-Flow-Pro
+Smart Python task manager with reminders, analytics, filters, dashboard and CSV export.
+>>>>>>> 4a5e184160d8d5c4fc2fe71335bb85bbe61b6cb6
